@@ -23,7 +23,7 @@ Install dependencies:
 
 ```pip install pandas scikit-learn numpy```
 
-##Usage
+## Usage
 Open the Jupyter Notebook:
 
 jupyter notebook
