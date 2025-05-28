@@ -4,7 +4,7 @@ This project implements a content-based recommendation system that uses cosine s
 ## Features
 Content-based filtering
 
-##Cosine similarity computation
+## Cosine similarity computation
 
 Text vectorization using TF-IDF Vectorizer
 
