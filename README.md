@@ -13,8 +13,11 @@ Text vectorization using TF-IDF Vectorizer
 ## Installation
 Clone the repository:
 
-```git clone https://github.com/Ashbipbinu/recommendation-system.git``` 
-```cd recommendation-system]```
+```git clone https://github.com/Ashbipbinu/recommendation-system.git```
+
+
+
+```cd recommendation-system```
 
 Install dependencies:
 
