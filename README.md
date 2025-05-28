@@ -7,6 +7,8 @@ Content-based filtering
 ## Cosine similarity computation
 
 Text vectorization using TF-IDF Vectorizer
+
+
 Preprocessing and recommendation using pandas and scikit-learn
 
 ## Installation
